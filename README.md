@@ -1,0 +1,2 @@
+# ExportNavMesh
+Unity导出网格给LayaBox用的json导航数据文件的示例项目，这是Unity项目
